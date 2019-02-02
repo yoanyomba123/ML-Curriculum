@@ -3,6 +3,25 @@
 ## Practical Books
 - [ ] Pattern Recognition (Theodoridis)
 - [ ] Statistical Learning
+- [ ] Elements Of Statistical Learning 
+- [ ] Pattern Recognition And Machine learning 
+- [ ] Hands On Machine Learning
+- [ ] Handbook Of Brain Theory
+- [ ] Learning Deep Architectures
+- [ ] Handbook On Neural Information Processing
+- [ ] Probabilistic Graphical Models
+- [ ] Deep Learning : A Practitioner's Approach
+- [ ] Machine Learning: A Probabilistic Perspective
+- [ ] Probabilistic Theory Of Pattern Recognition
+- [ ] Pattern Classification
+- [ ] Bayesian Reasoning And Machine Learning
+- [ ] Introduction To Neural Networks
+- [ ] Convex Analysis And Non Linear Optimization
+- [ ] Introduction To Optimization
+- [ ] Introduction To The Theory Of Nonlinear Optimization
+- [ ] Large Scale Nonlinear Optimization
+- [ ] Linear Optimization 
+- [ ] Numerical Optimization
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
