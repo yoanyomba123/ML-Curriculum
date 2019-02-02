@@ -1,5 +1,17 @@
-# ML-Curriculum
+# Software Development Curriculum
+## Practical Books
+- [ ] The Pragmatic Programmer
+- [ ] The Mythical Man-Moth
+- [ ] Clean Code
+- [ ] The Clean Coder
+- [ ] Refactoring: Improving The Design Of Existing code
+- [ ] Working Effectively With Legacy Code
+- [ ] Code Complete
+- [ ] Head First Design Patterns
+- [ ] PeopleWare: Productive Projects And Teams
+- [ ] Soft Skills: The Software Developer's Life Manual
 
+# Machine Learning Curriculum
 ## Practical Books
 - [ ] Pattern Recognition (Theodoridis)
 - [ ] Statistical Learning
